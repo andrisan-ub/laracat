@@ -1,0 +1,19 @@
+{
+    "name": "andrisan/laracat",
+    "description": "Package untuk menampilkan gambar kucing",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Andrisan\\Laracat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andri Santoso",
+            "email": "andrisan@ub.ac.id"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
